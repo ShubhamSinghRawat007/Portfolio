@@ -35,8 +35,9 @@ const About = () => {
     </motion.div>
 
     <motion.p variants={fadeIn("","",0.1,1) } className='mt-4 text-secondary text-[17px] max-w-3xl leading-[30px]' > 
-      I'm a skilled software developer with Experience in TypeScript and JavaScript , and expertise in framewoerks like react, Node.js and Three.js.
-      I'm Lorem ipsum dolor sit, amet consectetur adipisicing elit. Ipsum, obcaecati? Lorem ipsum dolor sit amet.
+      I'm a skilled software developer with Experience in web development , and expertise in framewoerks like react, Node.js and Three.js.
+      Skilled in creating Responsive UI and integrating RESTful APIs for mobile-friendly, cross-browser
+      compatible applications
     </motion.p>
 
     <div className='mt-20 flex flex-wrap gap-10' >

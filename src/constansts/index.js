@@ -42,11 +42,11 @@ import {
   
   const services = [
     {
-      title: "Web Developer",
+      title: "Front Developer",
       icon: web,
     },
     {
-      title: "React Native Developer",
+      title: "React Developer",
       icon: mobile,
     },
     {
@@ -54,7 +54,7 @@ import {
       icon: backend,
     },
     {
-      title: "Content Creator",
+      title: "Freelancer",
       icon: creator,
     },
   ];
@@ -117,10 +117,10 @@ import {
   const experiences = [
     {
       title: "React.js Developer",
-      company_name: "Starbucks",
+      company_name: "Jan 2023 – Present",
       icon: starbucks,
       iconBg: "#383E56",
-      date: "March 2020 - April 2021",
+      date: "Jan 2023 – Present",
       points: [
         "Developing and maintaining web applications using React.js and other related technologies.",
         "Collaborating with cross-functional teams including designers, product managers, and other developers to create high-quality products.",
@@ -129,42 +129,39 @@ import {
       ],
     },
     {
-      title: "React Native Developer",
+      title: "Backend Developer (Node.js)",
       company_name: "Tesla",
       icon: tesla,
       iconBg: "#E6DEDD",
-      date: "Jan 2021 - Feb 2022",
+      date: "Jan 2023 – Present",
       points: [
-        "Developing and maintaining web applications using React.js and other related technologies.",
-        "Collaborating with cross-functional teams including designers, product managers, and other developers to create high-quality products.",
-        "Implementing responsive design and ensuring cross-browser compatibility.",
-        "Participating in code reviews and providing constructive feedback to other developers.",
+        "Developed high-performance backend applications using Node.js, optimizing server response times and handling data-intensive operations with ease.",
+        "Designed and deployed RESTful APIs and GraphQL APIs with Node.js, enabling seamless communication between client applications and databases.",
+        "Utilized asynchronous programming with Promises and async/await to manage multiple requests efficiently, ensuring smooth user experiences under high load.",
       ],
     },
     {
-      title: "Web Developer",
+      title: "Express.js",
       company_name: "Shopify",
       icon: shopify,
       iconBg: "#383E56",
-      date: "Jan 2022 - Jan 2023",
+      date: "Jan 2023 – Present",
       points: [
-        "Developing and maintaining web applications using React.js and other related technologies.",
-        "Collaborating with cross-functional teams including designers, product managers, and other developers to create high-quality products.",
-        "Implementing responsive design and ensuring cross-browser compatibility.",
-        "Participating in code reviews and providing constructive feedback to other developers.",
+        "Built scalable and secure RESTful APIs using Express.js, handling diverse client needs such as data management, user authentication, and real-time interactions.",
+        "Designed and implemented middleware for request validation, error handling, and logging, ensuring high application reliability and maintainability.",
+        "Integrated JWT (JSON Web Tokens) for user authentication and session management, providing secure login and access control across applications.",
       ],
     },
     {
-      title: "Full stack Developer",
+      title: "Database Developer (MongoDB)",
       company_name: "Meta",
       icon: meta,
       iconBg: "#E6DEDD",
       date: "Jan 2023 - Present",
       points: [
-        "Developing and maintaining web applications using React.js and other related technologies.",
-        "Collaborating with cross-functional teams including designers, product managers, and other developers to create high-quality products.",
-        "Implementing responsive design and ensuring cross-browser compatibility.",
-        "Participating in code reviews and providing constructive feedback to other developers.",
+        "Designed and optimized scalable databases using MongoDB, ensuring efficient data storage and retrieval for web applications handling large volumes of data.",
+        "Utilized Mongoose to define schemas, validate data, and manage complex relationships, creating robust models that align with application requirements.",
+        "Improved database performance through indexing and aggregation pipelines, allowing for fast query responses and efficient data analysis.",
       ],
     },
   ];
@@ -172,27 +169,27 @@ import {
   const testimonials = [
     {
       testimonial:
-        "I thought it was impossible to make a website as beautiful as our product, but Rick proved me wrong.",
-      name: "Sara Lee",
-      designation: "CFO",
-      company: "Acme Co",
+        "I thought it was impossible to make a website as beautiful as our product, but Shubham proved me wrong.",
+      name: "Gurlen caur",
+      designation: "MD",
+      company: "Heart Cafe",
       image: "https://randomuser.me/api/portraits/women/4.jpg",
     },
     {
       testimonial:
         "I've never met a web developer who truly cares about their clients' success like Rick does.",
-      name: "Chris Brown",
+      name: "Ritik",
       designation: "COO",
       company: "DEF Corp",
       image: "https://randomuser.me/api/portraits/men/5.jpg",
     },
     {
       testimonial:
-        "After Rick optimized our website, our traffic increased by 50%. We can't thank them enough!",
-      name: "Lisa Wang",
+        "Exceptional work on our landing page! They crafted a beautiful, responsive design that aligns perfectly with our brand and vision..",
+      name: "Rahul Sirola",
       designation: "CTO",
-      company: "456 Enterprises",
-      image: "https://randomuser.me/api/portraits/women/6.jpg",
+      company: "Sirola Enterprises",
+      image: "https://randomuser.me/api/portraits/men/23.jpg",
     },
   ];
   
