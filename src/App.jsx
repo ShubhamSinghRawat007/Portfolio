@@ -1,6 +1,6 @@
 import { BrowserRouter } from "react-router-dom";
 
-import { About, Contact, Experience, Feedbacks, Hero, Navbar, Tech, Works, HeroSec } from "./components";
+import { About, Contact, Experience, Feedbacks, Navbar, Tech, Works, HeroSec } from "./components";
 
 
 function App() {
@@ -10,7 +10,6 @@ function App() {
         <div className="bg-hero-pattern bg-cover bg-no-repeat bg-center">
           <Navbar />
           <HeroSec />
-          {/* <Hero /> */}
         </div>
         <About/>
         <Experience/>
