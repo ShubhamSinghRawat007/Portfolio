@@ -130,7 +130,7 @@ import {
     },
     {
       title: "Backend Developer (Node.js)",
-      company_name: "Tesla",
+      company_name: "Jan 2023 – Present",
       icon: tesla,
       iconBg: "#E6DEDD",
       date: "Jan 2023 – Present",
@@ -142,7 +142,7 @@ import {
     },
     {
       title: "Express.js",
-      company_name: "Shopify",
+      company_name: "Jan 2023 – Present",
       icon: shopify,
       iconBg: "#383E56",
       date: "Jan 2023 – Present",
@@ -154,7 +154,7 @@ import {
     },
     {
       title: "Database Developer (MongoDB)",
-      company_name: "Meta",
+      company_name: "Jan 2023 – Present",
       icon: meta,
       iconBg: "#E6DEDD",
       date: "Jan 2023 - Present",
